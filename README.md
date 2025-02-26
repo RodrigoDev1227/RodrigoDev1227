@@ -9,42 +9,42 @@
 <div>
   <h1>Contatos</h1>
 </div>
-<section>
+<section align="center">
   
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rodrigo-sobral1227/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
-  
-<p></p>
+    <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Sobral-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
 
- <a href="https://www.instagram.com/rodrigo.freecss/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-</a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/rodrigo.freecss/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-rodrigo.freecss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
 
-<p></p>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5524992257466" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Rodrigo%20Dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
+  </a>
 
-<a href="https://wa.me/5524992257466" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
-</a>
-
-<p></p>
-
-<a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
-</a>
-<img src="https://img.shields.io/badge/AKKUN%238932-23272
-
-**AKKUN#8932**
+  <!-- Discord -->
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-AKKUN%238932-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+  </a>
 
 </section>
+
 
 <div>
 <h1>Tecnologias</h1>
-<section>
-
-
-
-
-
-</section>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
 </div>
+
+
+
+

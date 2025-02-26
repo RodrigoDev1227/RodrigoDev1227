@@ -1,12 +1,13 @@
-<!-- Achievement do Minecraft no topo -->
+<!-- Achievement do Minecraft no topo (Agora com Bloco de Terra) -->
 <p align="center">
   <img src="https://minecraftskinstealer.com/achievement/1/Achievement%20Get!/Rodrigo%20Dev" alt="Achievement Badge" width="400">
 </p>
 
 <!-- Animação digitando estilo terminal -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Apaixonado+por+tecnologia;Criando+o+imposs%C3%ADvel!" alt="Typing SVG">
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Apaixonado+por+tecnologia;Criando+o+imposs%C3%ADvel!" alt="Typing S
+
+
 
 ---
 
@@ -43,7 +44,7 @@
 
 ---
 
-## 🎌 Tecnologias  
+## ⌨ Tecnologias  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
@@ -56,27 +57,30 @@
 
 ---
 
-## 🔥 GitHub Stats  
+## 🔥 Stats  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoDev1227&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDev1227&layout=compact&langs_count=6&theme=dark">
 </div>
 
-<!-- Imagem de anime/Minecraft agora abaixo das stats, deixando o layout mais fluido -->
+<!-- Piada e GIF sobre o início da jornada como Dev -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/ff/d6/8a/ffd68a8dcfe161385f57e1d39a9ea94b.jpg" width="500">
+  <strong>Foi aqui que tudo começou... minha vida de Dev! 😆</strong>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/70/b9/3e/70b93e2a18e924435a7903bbf5baaa81.gif" width="400">
 </p>
 
 ---
 
-## 💬 Chat Estilo Minecraft  
-👾 **Simulação de um chat estilo Minecraft para deixar mais interativo!**  
+
 
 ```yaml
-[RodrigoDev1227]: Alguém quer aprender a programar? 😎
-[Steve]: Eu quero! Como começo?
-[RodrigoDev1227]: Primeiro, aprenda os fundamentos de lógica de programação.
-[RodrigoDev1227]: Depois, escolha uma linguagem como JavaScript ou Python.
-[Creeper]: Sssss... Eu só explodo bugs! 💣
-[RodrigoDev1227]: Hahaha, bora codar antes que ele exploda! 🚀
+
+[RodrigoDev]:  Achievement Get! – "Hello, World!"
+(Escreva seu primeiro código e entre no jogo da programação!)
+
+
+

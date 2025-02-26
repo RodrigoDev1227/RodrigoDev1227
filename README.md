@@ -76,8 +76,7 @@
 
 ---
 
-## 💬 Chat Estilo Minecraft  
-👾 **Simulação de um chat estilo Minecraft para deixar mais interativo!**  
+  
 
 ```yaml
 [RodrigoDev]:  Achievement Get! – "Hello, World!"

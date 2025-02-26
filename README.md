@@ -5,9 +5,8 @@
 
 <!-- Animação digitando estilo terminal -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Apaixonado+por+tecnologia;Criando+o+imposs%C3%ADvel!" alt="Typing S
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Apaixonado+por+tecnologia;Criando+o+imposs%C3%ADvel!" alt="Typing SVG">
+</p>
 
 ---
 
@@ -64,9 +63,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDev1227&layout=compact&langs_count=6&theme=dark">
 </div>
 
+---
+
 <!-- Piada e GIF sobre o início da jornada como Dev -->
 <p align="center">
-  <strong>Foi aqui que tudo começou... minha vida de Dev! 😆</strong>
+  <strong>Foi aqui que tudo começou... </strong>
 </p>
 
 <p align="center">
@@ -75,12 +76,9 @@
 
 ---
 
-
+## 💬 Chat Estilo Minecraft  
+👾 **Simulação de um chat estilo Minecraft para deixar mais interativo!**  
 
 ```yaml
-
 [RodrigoDev]:  Achievement Get! – "Hello, World!"
 (Escreva seu primeiro código e entre no jogo da programação!)
-
-
-

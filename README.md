@@ -5,43 +5,44 @@
 <h1 align="center">Rodrigo Sobral</h1>
 
 <p align="center">
-  Back-end Developer focused on building clean, modern and reliable applications
-  <br>
-  with Java and Spring.
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=22&pause=2500&color=111111&center=true&vCenter=true&width=700&lines=Back-end+Developer;Building+clean+APIs+with+Java+and+Spring;Focused+on+professional+and+scalable+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  I build clean, modern and reliable back-end applications with a strong focus on
+  <br>
+  Java, Spring and solid business logic.
+</p>
+
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,git,postman,maven&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 </p>
 
 ---
 
 ## About
 
-I am a developer focused on back-end development, building applications with clean structure, solid logic and modern best practices.
+I am focused on back-end development, building APIs and applications with clean structure, strong logic and maintainable code.
 
-My main focus today is creating APIs and business rules using Java and Spring, always aiming for simple, professional and scalable solutions.
-
----
-
-## Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</p>
+My current learning path is centered on Java and Spring Boot, always aiming to turn study projects into professional portfolio projects.
 
 ---
 
 ## Focus
 
 - REST API development
-- Clean code and project organization
-- Business rules with Java
+- Java business rules
 - Spring Boot applications
+- Clean code and project organization
 - Continuous learning and portfolio growth
 
 ---

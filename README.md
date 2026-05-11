@@ -43,16 +43,10 @@ My main focus is creating real applications with **Java** and **Spring Boot**, t
 ##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,postman&theme=dark&perline=6" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Maven-111111?style=for-the-badge&logo=apachemaven&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white">
-</p>
+
 
 ---
 

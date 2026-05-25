@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/rodrigo-sobral1227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/rodrigo.freecss/" target="_blank">
+  <a href="https://www.instagram.com/digo.crow/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://wa.me/5524992257466" target="_blank">
